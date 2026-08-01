@@ -1,2 +1,4 @@
-# cpp-regression-18
+# Cpp Regression 18
+
 Basic slope-intercept coefficients solver in C++.
+
